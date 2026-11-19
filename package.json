@@ -1,0 +1,25 @@
+{
+  "name": "cedar-grove-academy",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "vite build",
+    "start": "node server.js --production"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.3.1",
+    "@tailwindcss/vite": "latest",
+    "@vitejs/plugin-react": "latest",
+    "express": "^5.3.0",
+    "framer-motion": "latest",
+    "lucide-react": "latest",
+    "motion-dom": "^14.14.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "tailwindcss": "latest",
+    "vite": "latest"
+  }
+}
